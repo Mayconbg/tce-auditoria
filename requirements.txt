@@ -1,0 +1,15 @@
+# ============================================================
+# requirements.txt — Dependências do Projeto RAG TCE/PR
+# ============================================================
+# Para instalar tudo de uma vez, execute no terminal:
+#   pip install -r requirements.txt
+
+streamlit==1.35.0
+PyPDF2==3.0.1
+langchain==0.2.5
+langchain-openai==0.1.8
+langchain-community==0.2.5
+faiss-cpu==1.13.2
+openai==1.30.5
+python-dotenv==1.0.1
+tiktoken==0.7.0
